@@ -1,5 +1,8 @@
 hello git! 1111
 hello git! 2222
+<<<<<<< HEAD
 hello git! alter file after creat branch
-hello git!
+=======
+hello git! hot-fix alter
+>>>>>>> hot-fix
 hello git!
